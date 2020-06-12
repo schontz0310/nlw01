@@ -71,7 +71,7 @@ A  **[Rocketseat][rocketseat_site]** em sua primeira Next Level Week desenvolveu
 </p>
 
 
-## :: Desafio
+## :checkered_flag: Desafio
 
 Inserir um botão "como chegar", aonde o usuario ao clicar nele acessaria seu app nativo de navegação ( tanto Android quanto Ios) e teria a rota até o ponto de coleta selecionado.
 
